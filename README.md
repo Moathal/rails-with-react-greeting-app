@@ -160,6 +160,11 @@ Example:
 > The collaborators of this project.
 
 
+👤 **Moathal Kachi**
+
+- [@github](https://github.com/Moathal)
+- [@LinkedIn](https://www.linkedin.com/in/moathalkachi)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
