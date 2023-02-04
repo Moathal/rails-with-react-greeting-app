@@ -159,11 +159,6 @@ Example:
 
 > The collaborators of this project.
 
-👤 **Aamir Khan**
-
-- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/aamir-kh)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
